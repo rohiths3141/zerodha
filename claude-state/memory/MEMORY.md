@@ -1,0 +1,1 @@
+- [Zerodha Bounty Scope](zerodha-bounty-scope.md) — in/out-of-scope assets + rules for the authorized Zerodha engagement

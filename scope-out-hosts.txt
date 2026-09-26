@@ -1,0 +1,5 @@
+varsitylive.zerodha.com
+sensibull.zerodha.com
+sentinel.zerodha.com
+smallcase.zerodha.com
+developers.kite.trade

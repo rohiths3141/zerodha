@@ -1,0 +1,22 @@
+# Re-downloadable tooling (see setup.sh)
+tools/
+# App binaries & decompiled output (large; avoid redistributing app builds)
+apps/**/*.apk
+apps/**/*.xapk
+apps/**/*.apks
+apps/**/base/
+apps/**/decompiled/
+apps/**/jadx-out/
+# Credential-bearing files — never commit
+*.env
+.env
+**/creds*
+**/secrets*
+**/*token*
+**/*apikey*
+*.pem
+*.key
+*.keystore
+# Scratch
+*.tmp
+loot/
